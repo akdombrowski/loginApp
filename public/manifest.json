@@ -1,9 +1,9 @@
 {
   "short_name": "PingOne for Customers Custom SignOn React Client App",
-  "name": "Create PingOne for Customers Custom SignOn React Client App Sample",
+  "name": "PingOne for Customers Custom SignOn React Client App Sample",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "Ping-Logo.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     }
